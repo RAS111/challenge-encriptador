@@ -1,6 +1,6 @@
 #challengeencriptadoraluralatam
 
-- Challenge realizado con: 
+Challenge realizado con: 
  - HTML5
  - CSS3
  - JavaScript
